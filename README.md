@@ -6,3 +6,6 @@ Social Media to talk with other people about movies and streaming services
 #Edit code
 npm run dev
 
+#Node Modules
+run npm init
+
